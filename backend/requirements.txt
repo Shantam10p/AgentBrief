@@ -3,4 +3,5 @@ uvicorn
 langChain
 langGraph
 python-dotenv
+pytorch
 
